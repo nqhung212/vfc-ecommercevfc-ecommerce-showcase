@@ -1,22 +1,26 @@
-# VFC E-Commerce — Project Overview
+# VFC E-Commerce
 
-Public overview for a PHP e-commerce application. The source repository remains private.
+Technical overview of a server-rendered PHP e-commerce application.
 
-## Verified repository structure
+> Public case study. The implementation and database resources are private.
 
-The working project contains separate areas for:
+## Verified scope
 
 - Customer, user, and administrator flows
-- Product and shopping modules
-- Data-access models and database resources
+- Product discovery and shopping workflows
 - Cart, billing, and product-management operations
+- Data-access models and relational database resources
 - Shared templates and image assets
 
 ## Technology
 
-PHP with a relational database and a server-rendered web interface.
+PHP · MySQL · server-rendered web UI
 
-## Disclosure
+## Project status
 
-The original repository has limited documentation, so this page intentionally avoids unverified feature or performance claims. It is public for project traceability while the implementation remains private.
-  
+The original project has limited documentation. This page intentionally avoids unverified feature, security, or performance claims and is retained as a historical project overview rather than a featured portfolio entry.
+
+## Availability
+
+**Demo:** Not publicly deployed  
+**Source code:** Private — contact for further information
